@@ -1,0 +1,77 @@
+----------------------------------------------------------------
+Thu Feb 04 23:06:13 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0177-6e1d-a780-00000166d8e0 
+on database directory memory:C:\Users\Hariom\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\SpringBootJPADerbyExceptionHandling\c3a78ab8-9691-4841-8a8e-f0cd6cf73da2 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3764951d 
+Loaded from file:/C:/Users/Hariom/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Users\Hariom\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\SpringBootJPADerbyExceptionHandling
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Feb 04 23:39:49 IST 2021:
+Shutting down instance a816c00e-0177-6e1d-a780-00000166d8e0 on database directory memory:C:\Users\Hariom\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\SpringBootJPADerbyExceptionHandling\c3a78ab8-9691-4841-8a8e-f0cd6cf73da2 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3764951d 
+----------------------------------------------------------------
+Thu Feb 04 23:39:52 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 782c40df-0177-6e1d-a780-00000166d8e0 
+on database directory memory:C:\Users\Hariom\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\SpringBootJPADerbyExceptionHandling\2e9ebb22-cf46-482f-ab0c-2324a870b93a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3764951d 
+Loaded from file:/C:/Users/Hariom/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Users\Hariom\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\SpringBootJPADerbyExceptionHandling
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Feb 04 23:41:49 IST 2021:
+Shutting down instance 782c40df-0177-6e1d-a780-00000166d8e0 on database directory memory:C:\Users\Hariom\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\SpringBootJPADerbyExceptionHandling\2e9ebb22-cf46-482f-ab0c-2324a870b93a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3764951d 
+----------------------------------------------------------------
+Thu Feb 04 23:41:51 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance ad8a418f-0177-6e1d-a780-00000166d8e0 
+on database directory memory:C:\Users\Hariom\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\SpringBootJPADerbyExceptionHandling\2ab7738f-b0d1-49c4-b1ea-0cb470d21855 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3764951d 
+Loaded from file:/C:/Users/Hariom/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Users\Hariom\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\SpringBootJPADerbyExceptionHandling
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Feb 04 23:45:42 IST 2021:
+Shutting down instance ad8a418f-0177-6e1d-a780-00000166d8e0 on database directory memory:C:\Users\Hariom\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\SpringBootJPADerbyExceptionHandling\2ab7738f-b0d1-49c4-b1ea-0cb470d21855 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3764951d 
+----------------------------------------------------------------
+Thu Feb 04 23:45:44 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6009823d-0177-6e1d-a780-00000166d8e0 
+on database directory memory:C:\Users\Hariom\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\SpringBootJPADerbyExceptionHandling\0050bda5-61fb-47e1-a5c9-d3965b9385ac with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3764951d 
+Loaded from file:/C:/Users/Hariom/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Users\Hariom\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\SpringBootJPADerbyExceptionHandling
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Feb 04 23:54:02 IST 2021:
+Shutting down instance 6009823d-0177-6e1d-a780-00000166d8e0 on database directory memory:C:\Users\Hariom\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\SpringBootJPADerbyExceptionHandling\0050bda5-61fb-47e1-a5c9-d3965b9385ac with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3764951d 
+----------------------------------------------------------------
+Thu Feb 04 23:54:03 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 26690309-0177-6e1d-a780-00000166d8e0 
+on database directory memory:C:\Users\Hariom\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\SpringBootJPADerbyExceptionHandling\a82bd13c-3455-4d6b-bd63-9c99c2ded88b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3764951d 
+Loaded from file:/C:/Users/Hariom/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Users\Hariom\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\SpringBootJPADerbyExceptionHandling
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,6 @@
+com\capgemini\demo\SpringBootJpaDerby2PSQLApplication.class
+com\capgemini\demo\service\EmployeeServiceImp.class
+com\capgemini\demo\controller\EmployeeController.class
+com\capgemini\demo\service\EmployeeService.class
+com\capgemini\demo\beans\Employee.class
+com\capgemini\demo\repository\EmployeeRepo.class
